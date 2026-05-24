@@ -8,7 +8,7 @@ version = "0.1.0"
 description = "Readable, lazy data-transformation pipelines for Python — no more nested function calls. pip install streamchain"
 readme = "README.md"
 license = { file = "LICENSE" }
-authors = [{ name = "Sheheryar", email = "thesheheryaahmad767@gmail.com" }]
+authors = [{ name = "Sheheryar", email = "thesheheryarahmad767@gmail.com" }]
 requires-python = ">=3.8"
 keywords = ["pipeline", "functional", "stream", "pipe", "data", "transformation", "iterable", "lazy"]
 classifiers = [
