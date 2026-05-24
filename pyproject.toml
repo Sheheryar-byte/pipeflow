@@ -3,9 +3,9 @@ requires = ["hatchling"]
 build-backend = "hatchling.build"
 
 [project]
-name = "pipeflow"
+name = "streamchain"
 version = "0.1.0"
-description = "Readable, lazy data-transformation pipelines for Python — no more nested function calls."
+description = "Readable, lazy data-transformation pipelines for Python — no more nested function calls. pip install streamchain"
 readme = "README.md"
 license = { file = "LICENSE" }
 authors = [{ name = "Sheheryar", email = "thesheheryaahmad767@gmail.com" }]
@@ -40,6 +40,7 @@ dev = [
 Homepage = "https://github.com/Sheheryar-byte/pipeflow"
 Documentation = "https://github.com/Sheheryar-byte/pipeflow#readme"
 Issues = "https://github.com/Sheheryar-byte/pipeflow/issues"
+Source = "https://github.com/Sheheryar-byte/pipeflow"
 
 [tool.hatch.build.targets.wheel]
 packages = ["src/pipeflow"]
